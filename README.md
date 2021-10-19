@@ -5,6 +5,6 @@
 Tugas Chapter 6 - Game Programming, remake game Match Tree.
 
 ### More
--File .exe terdapat dalam file "Apk.zip"
+-File build terdapat pada "Releases"
 
 -Kasih bintang ya :D
